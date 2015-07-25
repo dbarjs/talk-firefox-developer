@@ -1,7 +1,5 @@
 -Debugando a Web com o Firefox
-
 -Mozilla (comunidade)
--Imporante do debug
 -Firefox (img: firefox logo)
 -Firefox Developer Edition (img: firefox-developer logo)
 	-Sobre (Site Firefox)
